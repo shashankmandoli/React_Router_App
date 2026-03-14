@@ -1,4 +1,4 @@
-import {Header, Footer, Home} from './components'
+import {Header, Footer, Home, About} from './components'
 import { Outlet } from 'react-router-dom'
 
 function App() {
